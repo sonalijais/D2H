@@ -19,7 +19,7 @@ amount will be deducted from the account balance.
 pack, notifications should be sent through email and/or SMS if the user has
 updated email and/or phone number.
 
-# Sample Input/Output for Console Application
+Sample Input/Output for Console Application
 
 Welcome to SatTV
 1. View account balance and current subscription
