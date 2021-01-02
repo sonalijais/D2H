@@ -33,18 +33,18 @@ Enter the option: 1
 Account balance is 100 Rs.
 Current subscription : Gold (If the user has not yet subscribed show “ Not
 subscribed” )
-============================================================
+
 Enter the option: 2
 Enter the amount to recharge: 500
 Recharge completed successfully. Current balance is 600
-============================================================
+
 Enter the option: 3
 Available packs for subscription
 Silver pack: Zee, Sony, Star Plus: 50 Rs.
 Gold Pack: Zee, Sony, Star Plus, Discovery, NatGeo: 100 Rs.
 Available channels for subscription
 Zee: 10 Rs, Sony: 15 Rs, Star Plus: 20 Rs, Discovery: 10 Rs, NatGeo: 20 Rs.
-============================================================
+
 Enter the option: 4
 Enter the Pack you wish to subscribe: (Silver: ‘S’, Gold: ‘G’): G
 Enter the months: 3
@@ -56,12 +56,11 @@ Discount applied: 30 Rs.
 Final Price after discount: 270 Rs
 Email notification sent successfully
 SMS notification sent successfully
-============================================================
+
 Enter the option: 5
 Enter channel names to add (separated by commas): Discovery, Nat Geo
 Channels added successfully.
 Account balance: 300 Rs.
-============================================================
+
 Enter the option: 6
 Exit.
-============================================================
